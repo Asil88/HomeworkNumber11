@@ -1,3 +1,5 @@
+package task1;
+
 public class Document {
    private String string;
    private char[]document;

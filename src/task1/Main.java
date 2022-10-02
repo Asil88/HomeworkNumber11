@@ -1,3 +1,7 @@
+package task1;
+
+import task1.Document;
+
 public class Main {
     public static void main(String[] args) {
 
